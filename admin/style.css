@@ -1,0 +1,22 @@
+h2 {
+	font-family:times new roman;
+	color:#fff;
+	padding: 15px;
+}
+a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#fff;
+	font-size:18px;
+	font-family:times new roman;
+}
+img{
+	width:450px;
+	height:auto;
+}
+p {
+		font-weight:bold;
+	color:#fff;
+	font-size:18px;
+	font-family:times new roman;
+}
